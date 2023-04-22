@@ -132,8 +132,7 @@ a {
 	background-image: linear-gradient(to right,red,blue);
 }
 
-.photoss:hover{
-	 margin: 200px;
-    transform: scale(3);
-    transition:20s linear;
+.photoss {
+	text-align: center;
+	text-decoration: none;
 }
